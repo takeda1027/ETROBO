@@ -426,7 +426,7 @@ void Observer::operate() {
         captain->decide(EVT_go_b3); // 物体に接近
         clock->sleep(1000);//スラローム後、大きくラインを外しても、手前の黒ラインに引っかからないためにスリープ
     }
-
+    //higehige
     //  sano_t
     if(g_b3_turn_flg == 30){
         //グリーン線１
